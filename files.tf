@@ -3,5 +3,5 @@ resource local_file res1 {
   content = "this is github"
 }
  variable f1 {
-  filename = "file1"
+  default = "file1"
 }
